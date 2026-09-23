@@ -1,4 +1,4 @@
-this has multiple scripts but i put the main one
+MY SCRIPT IS NOT INDEPENDENT THIS IS JUST THE MAIN SCRIPT PRESS Q TO LAUNCH WHEN IN GAME!!!!!!!!!!!!!!!!
 
 local RunService = game:GetService("RunService")
 local Players = game:GetService("Players")
